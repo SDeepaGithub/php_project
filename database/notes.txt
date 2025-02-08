@@ -1,0 +1,12 @@
+// import the student_marks.sql in xaampp for the database table usage
+
+//steps
+
+1)select basic_mysql database
+2)click on import
+3)download the student_marks.sql file
+4)import the file
+5)save changes.
+
+
+//end
